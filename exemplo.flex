@@ -2,7 +2,7 @@ import java_cup.runtime.Symbol;
 
 %%
 
-%cup
+%cup 
 
 digito = [0-9]
 inteiro = {digito}+
